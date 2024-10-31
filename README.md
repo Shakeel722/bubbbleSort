@@ -1,1 +1,1 @@
-# bubbbleSort ( sorting algorithm with time complexity of O(n^2)
+# BUBBLE SORT ( sorting algorithm with time complexity of O(n^2)
